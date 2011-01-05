@@ -1,66 +1,66 @@
-De acordo com a definiÁ„o do dicion·rio AurÈlio, o holerite ou contracheque È um documento emitido por firma comercial ou repartiÁ„o p˙blica, no qual se especifica o ordenado bruto do funcion·rio, as respectivas deduÁıes (de imposto por pagar, desconto para institutos de aposentadoria e pensıes, etc.), ou acrÈscimos (sal·rio-famÌlia, auxÌlio-enfermidade, gratificaÁıes, etc.), e mediante o qual se acha ele autorizado a receber o que lhe È devido.
+De acordo com a defini√ß√£o do dicion√°rio Aur√©lio, o holerite ou contracheque √© um documento emitido por firma comercial ou reparti√ß√£o p√∫blica, no qual se especifica o ordenado bruto do funcion√°rio, as respectivas dedu√ß√µes (de imposto por pagar, desconto para institutos de aposentadoria e pens√µes, etc.), ou acr√©scimos (sal√°rio-fam√≠lia, aux√≠lio-enfermidade, gratifica√ß√µes, etc.), e mediante o qual se acha ele autorizado a receber o que lhe √© devido.
 
 
 
-Assinatura . a maioria dos comprovantes de pagamento de sal·rio possuem a data do recebimento e a assinatura do funcion·rio. Mas h· outros, enviados por correspondÍncia, que n„o possuem esse espaÁo.
+Assinatura . a maioria dos comprovantes de pagamento de sal√°rio possuem a data do recebimento e a assinatura do funcion√°rio. Mas h√° outros, enviados por correspond√™ncia, que n√£o possuem esse espa√ßo.
 
 
 
-Dados da empresa . geralmente localizados na parte superior, indicam a raz„o social da empresa.
+Dados da empresa . geralmente localizados na parte superior, indicam a raz√£o social da empresa.
 
 
 
-Dados do trabalhador . geralmente incluÌdos logo abaixo dos dados da empresa, contÍm: nome e cargo. H· empresas que incluem o cÛdigo de custo e o nome do chefe respons·vel por aquele setor.
+Dados do trabalhador . geralmente inclu√≠dos logo abaixo dos dados da empresa, cont√™m: nome e cargo. H√° empresas que incluem o c√≥digo de custo e o nome do chefe respons√°vel por aquele setor.
 
 
 
-DeduÁıes . os descontos possÌveis e que devem ser apresentados em seu holerite s„o:
+Dedu√ß√µes . os descontos poss√≠veis e que devem ser apresentados em seu holerite s√£o:
 
 
 
-* adiantamento: h· empresas que adiantam 40 ou 50% do sal·rio alguns dias antes do pagamento;
+* adiantamento: h√° empresas que adiantam 40 ou 50% do sal√°rio alguns dias antes do pagamento;
 
 
 
-* contribuiÁ„o sindical:  est· prevista na legislaÁ„o federal (artigos 578 a 610 da CLT) e È o desconto de um dia de trabalho por ano (equivalente a 3,33% do sal·rio), geralmente no mÍs de marÁo;
+* contribui√ß√£o sindical:  est√° prevista na legisla√ß√£o federal (artigos 578 a 610 da CLT) e √© o desconto de um dia de trabalho por ano (equivalente a 3,33% do sal√°rio), geralmente no m√™s de mar√ßo;
 
 
 
-* convÍnio mÈdico (quando houver);
+* conv√™nio m√©dico (quando houver);
 
 
 
-* Imposto de Renda (IR): È calculado sobre o valor do rendimento do trabalhador depois de descontada a contribuiÁ„o do INSS. De acordo com a tabela do IR:
+* Imposto de Renda (IR): √© calculado sobre o valor do rendimento do trabalhador depois de descontada a contribui√ß√£o do INSS. De acordo com a tabela do IR:
 
 
 
-                         . est„o isentos os rendimentos lÌquidos mensais de atÈ R$ 1.257,12;
+                         . est√£o isentos os rendimentos l√≠quidos mensais de at√© R$ 1.257,12;
 
-                         . de R$ 1.257,13 a R$ 2.512,08, a alÌquota ser· de 15%;
+                         . de R$ 1.257,13 a R$ 2.512,08, a al√≠quota ser√° de 15%;
 
-                         . acima de R$ 2.512,08 incidir· a alÌquota de 27,5%.
-
-
-
-                         Depois de aplicada essa alÌquota correspondente ‡ faixa, o Imposto de Renda sofre um desconto:
+                         . acima de R$ 2.512,08 incidir√° a al√≠quota de 27,5%.
 
 
 
-                         . para quem paga 15% de IR, o desconto È de R$ 188,57;
-
-                         . para quem paga 27,5%, o desconto È de R$ 502,58.
+                         Depois de aplicada essa al√≠quota correspondente √† faixa, o Imposto de Renda sofre um desconto:
 
 
 
-                         * INSS (Instituto Nacional de Seguro Social): a contribuiÁ„o varia de 7,65% a 11%, de acordo com o sal·rio. Para sal·rios entre R$ 1254,37 e R$ 2508,72, por exemplo, o desconto È de 11% (sal·rios acima de R$ 2508,72 tÍm o desconto m·ximo, que È de R$ 275,95);
+                         . para quem paga 15% de IR, o desconto √© de R$ 188,57;
+
+                         . para quem paga 27,5%, o desconto √© de R$ 502,58.
 
 
 
-                         * alimentaÁ„o;
+                         * INSS (Instituto Nacional de Seguro Social): a contribui√ß√£o varia de 7,65% a 11%, de acordo com o sal√°rio. Para sal√°rios entre R$ 1254,37 e R$ 2508,72, por exemplo, o desconto √© de 11% (sal√°rios acima de R$ 2508,72 t√™m o desconto m√°ximo, que √© de R$ 275,95);
 
 
 
-                         * previdÍncia privada e demais benefÌcios de acordo com a polÌtica da empresa;
+                         * alimenta√ß√£o;
+
+
+
+                         * previd√™ncia privada e demais benef√≠cios de acordo com a pol√≠tica da empresa;
 
 
 
@@ -68,8 +68,8 @@ DeduÁıes . os descontos possÌveis e que devem ser apresentados em seu holerite s
 
 
 
-                         RodapÈ . indica os valores do sal·rio-base, da contribuiÁ„o ao INSS, a base de c·lculo do FGTS, o FGTS do mÍs, a base de c·lculo do imposto de renda e a faixa do imposto de renda.
+                         Rodap√© . indica os valores do sal√°rio-base, da contribui√ß√£o ao INSS, a base de c√°lculo do FGTS, o FGTS do m√™s, a base de c√°lculo do imposto de renda e a faixa do imposto de renda.
 
 
 
-                         Sal·rio . est· localizado no meio do demonstrativo de pagamento e traz o valor do sal·rio- base e as deduÁıes.
+                         Sal√°rio . est√° localizado no meio do demonstrativo de pagamento e traz o valor do sal√°rio- base e as dedu√ß√µes.
