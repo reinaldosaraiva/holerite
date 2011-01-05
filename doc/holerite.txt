@@ -1,0 +1,75 @@
+De acordo com a definição do dicionário Aurélio, o holerite ou contracheque é um documento emitido por firma comercial ou repartição pública, no qual se especifica o ordenado bruto do funcionário, as respectivas deduções (de imposto por pagar, desconto para institutos de aposentadoria e pensões, etc.), ou acréscimos (salário-família, auxílio-enfermidade, gratificações, etc.), e mediante o qual se acha ele autorizado a receber o que lhe é devido.
+
+
+
+Assinatura . a maioria dos comprovantes de pagamento de salário possuem a data do recebimento e a assinatura do funcionário. Mas há outros, enviados por correspondência, que não possuem esse espaço.
+
+
+
+Dados da empresa . geralmente localizados na parte superior, indicam a razão social da empresa.
+
+
+
+Dados do trabalhador . geralmente incluídos logo abaixo dos dados da empresa, contêm: nome e cargo. Há empresas que incluem o código de custo e o nome do chefe responsável por aquele setor.
+
+
+
+Deduções . os descontos possíveis e que devem ser apresentados em seu holerite são:
+
+
+
+* adiantamento: há empresas que adiantam 40 ou 50% do salário alguns dias antes do pagamento;
+
+
+
+* contribuição sindical:  está prevista na legislação federal (artigos 578 a 610 da CLT) e é o desconto de um dia de trabalho por ano (equivalente a 3,33% do salário), geralmente no mês de março;
+
+
+
+* convênio médico (quando houver);
+
+
+
+* Imposto de Renda (IR): é calculado sobre o valor do rendimento do trabalhador depois de descontada a contribuição do INSS. De acordo com a tabela do IR:
+
+
+
+                         . estão isentos os rendimentos líquidos mensais de até R$ 1.257,12;
+
+                         . de R$ 1.257,13 a R$ 2.512,08, a alíquota será de 15%;
+
+                         . acima de R$ 2.512,08 incidirá a alíquota de 27,5%.
+
+
+
+                         Depois de aplicada essa alíquota correspondente à faixa, o Imposto de Renda sofre um desconto:
+
+
+
+                         . para quem paga 15% de IR, o desconto é de R$ 188,57;
+
+                         . para quem paga 27,5%, o desconto é de R$ 502,58.
+
+
+
+                         * INSS (Instituto Nacional de Seguro Social): a contribuição varia de 7,65% a 11%, de acordo com o salário. Para salários entre R$ 1254,37 e R$ 2508,72, por exemplo, o desconto é de 11% (salários acima de R$ 2508,72 têm o desconto máximo, que é de R$ 275,95);
+
+
+
+                         * alimentação;
+
+
+
+                         * previdência privada e demais benefícios de acordo com a política da empresa;
+
+
+
+                         * transporte.
+
+
+
+                         Rodapé . indica os valores do salário-base, da contribuição ao INSS, a base de cálculo do FGTS, o FGTS do mês, a base de cálculo do imposto de renda e a faixa do imposto de renda.
+
+
+
+                         Salário . está localizado no meio do demonstrativo de pagamento e traz o valor do salário- base e as deduções.
