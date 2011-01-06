@@ -8,8 +8,20 @@ gem 'rails', '3.0.3'
 gem 'sqlite3-ruby', :require => 'sqlite3'
 
 # Use unicorn as the web server
-# gem 'unicorn'
+gem 'simple_form', '1.3.0'
+gem 'inherited_resources', '1.1.2'
+gem 'has_scope', '0.5.0'
+gem 'responders', '0.6.2'
+gem 'brazilian-rails'
 
+group :development do
+  gem 'rspec-rails', '2.4.1'
+end
+
+group :test do
+  gem 'rspec', '2.4.0'
+  gem 'spork', '0.8.4'
+end
 # Deploy with Capistrano
 # gem 'capistrano'
 
