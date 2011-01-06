@@ -14,14 +14,13 @@ gem 'has_scope', '0.5.0'
 gem 'responders', '0.6.2'
 gem 'brazilian-rails'
 
-group :development do
+group :development, :test do
   gem 'rspec-rails', '2.4.1'
-end
-
-group :test do
   gem 'rspec', '2.4.0'
   gem 'spork', '0.8.4'
+  gem 'web-app-theme', '>= 0.6.2'
 end
+
 # Deploy with Capistrano
 # gem 'capistrano'
 
