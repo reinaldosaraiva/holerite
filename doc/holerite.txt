@@ -3,37 +3,13 @@ De acordo com a definição do dicionário Aurélio, o holerite ou contracheque 
 
 
 Assinatura . a maioria dos comprovantes de pagamento de salário possuem a data do recebimento e a assinatura do funcionário. Mas há outros, enviados por correspondência, que não possuem esse espaço.
-
-
-
 Dados da empresa . geralmente localizados na parte superior, indicam a razão social da empresa.
-
-
-
 Dados do trabalhador . geralmente incluídos logo abaixo dos dados da empresa, contêm: nome e cargo. Há empresas que incluem o código de custo e o nome do chefe responsável por aquele setor.
-
-
-
 Deduções . os descontos possíveis e que devem ser apresentados em seu holerite são:
-
-
-
 * adiantamento: há empresas que adiantam 40 ou 50% do salário alguns dias antes do pagamento;
-
-
-
 * contribuição sindical:  está prevista na legislação federal (artigos 578 a 610 da CLT) e é o desconto de um dia de trabalho por ano (equivalente a 3,33% do salário), geralmente no mês de março;
-
-
-
 * convênio médico (quando houver);
-
-
-
 * Imposto de Renda (IR): é calculado sobre o valor do rendimento do trabalhador depois de descontada a contribuição do INSS. De acordo com a tabela do IR:
-
-
-
                          . estão isentos os rendimentos líquidos mensais de até R$ 1.257,12;
 
                          . de R$ 1.257,13 a R$ 2.512,08, a alíquota será de 15%;

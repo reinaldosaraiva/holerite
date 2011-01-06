@@ -1,0 +1,23 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  nome: MyString
+  cpf: MyString
+  fone: MyString
+  cargo: MyString
+  banco: MyString
+  agencia: MyString
+  conta_corrente: MyString
+  endereco_id: 1
+  empresa_id: 1
+
+two:
+  nome: MyString
+  cpf: MyString
+  fone: MyString
+  cargo: MyString
+  banco: MyString
+  agencia: MyString
+  conta_corrente: MyString
+  endereco_id: 1
+  empresa_id: 1

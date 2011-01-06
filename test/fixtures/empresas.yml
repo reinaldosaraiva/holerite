@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  razao_social: MyString
+  cnpj: MyString
+  nome_fantasia: MyString
+  logo: MyString
+
+two:
+  razao_social: MyString
+  cnpj: MyString
+  nome_fantasia: MyString
+  logo: MyString

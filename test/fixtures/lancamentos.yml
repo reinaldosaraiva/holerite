@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  descricao: MyString
+  referencia: 1.5
+  tipo_lancamento: MyString
+  valor: 1.5
+  contra_cheque_id: 1
+
+two:
+  descricao: MyString
+  referencia: 1.5
+  tipo_lancamento: MyString
+  valor: 1.5
+  contra_cheque_id: 1

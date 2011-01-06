@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  funcionario_id: 1
+  data: 2011-01-06
+  valor: 1.5
+  observacao: MyString
+
+two:
+  funcionario_id: 1
+  data: 2011-01-06
+  valor: 1.5
+  observacao: MyString

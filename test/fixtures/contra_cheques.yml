@@ -1,0 +1,15 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  competencia: 1
+  total_vencimento: 1.5
+  total_descontos: 1.5
+  total_liquido_a_receber: 1.5
+  funcionario_id: 1
+
+two:
+  competencia: 1
+  total_vencimento: 1.5
+  total_descontos: 1.5
+  total_liquido_a_receber: 1.5
+  funcionario_id: 1
