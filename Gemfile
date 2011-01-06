@@ -13,12 +13,12 @@ gem 'inherited_resources', '1.1.2'
 gem 'has_scope', '0.5.0'
 gem 'responders', '0.6.2'
 gem 'brazilian-rails'
+gem 'web-app-theme', '>= 0.6.2'
 
 group :development, :test do
   gem 'rspec-rails', '2.4.1'
   gem 'rspec', '2.4.0'
   gem 'spork', '0.8.4'
-  gem 'web-app-theme', '>= 0.6.2'
 end
 
 # Deploy with Capistrano
